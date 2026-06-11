@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://github.com/dungnotnull/dungnotnull/assets/cute-dog.jpg" alt="Banner" width="100%" style="border-radius: 12px;"/>
+  <img src="./cute-dog.jpg" alt="Banner" width="80px" style="border-radius: 12px;"/>
   
-  <h1>👋 Hello world, I'm Dung and me not null</h1>
+  <h1>
+  👋 Hello world, I'm Dung <code color="gray">me != null</code>
+</h1>
   
   <p>
     <strong>M.Sc. in Information & Communication Design Technology</strong><br>
