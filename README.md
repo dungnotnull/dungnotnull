@@ -60,6 +60,7 @@ Banking Systems • E-commerce Platforms • SaaS Applications • Enterprise So
 ### 📬 Let's Connect
 
 - **LinkedIn**: [Dung Hoang Truong](https://www.linkedin.com/in/truonghoangdung57/)
+- **Portfolio**: https://www.hoangdung.dev
 - **Email**: truonghoangdung57@gmail.com
 - **Open to**: Collaborations, Research, Code Reviews, and Crazy AI Ideas
 
