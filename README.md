@@ -41,12 +41,14 @@ Banking Systems • E-commerce Platforms • SaaS Applications • Enterprise So
 
 ### 🧠 Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<div style="display:flex;flex-wrap:wrap;gap:8px">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/>
+</div>
 
 **AI/ML**: PyTorch, LangChain, LLMs, Computer Vision, MLOps  
 **LLM Agent**: Claude, GPT, GLM, Deepseek, etc.
