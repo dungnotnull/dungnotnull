@@ -24,7 +24,8 @@
 
 ### About Me
 
-Passionate Full-Stack Engineer with a Master’s degree in Information & Communication Design Technology and a PhD, specializing in software engineering and AI-driven solutions. 
+Passionate Full-Stack Engineer with a Master’s degree in Information & Communication Design Technology, specializing in software engineering and AI-driven solutions, with a strong interest in pursuing a PhD. 
+
 <br/>I love building **intelligent systems** that combine cutting-edge AI with robust software engineering.
 
 My current focus lies at the intersection of:
